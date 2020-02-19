@@ -32,14 +32,14 @@ knitr::opts_chunk$set(fig.width=12, fig.height=8, warning=FALSE, message=FALSE)
 
 ## Introduction
 
-##### Data from the National Science Foundation demonstrate that women and people of color are underrepresented in STEM, including in statistics and data science. 
+Data from the National Science Foundation demonstrate that women and people of color, sometimes referred to as underrepresented minorities (URM), are underrepresented in STEM fields, including in statistics and data science. 
 
-**Percentage of STEM jobs filled by each group over time (NSF survey of college graduates).**<br>
+**Percentage of STEM jobs filled by group over time (NSF survey of college graduates).**<br>
 <img src = "intersection-fig3.jpeg">
 
-##### One strategy to improve the visibility of underrepresented groups is to include work from underrepresented scholars in college courses. This will not only add diverse voices to the course, but will elevate women and people of color who are working as scientists and allow students who are women and people of color to see people like them as experts. When college students see themselves represented in a field they are more likely to consider it a viable career choice.
+One strategy to improve the visibility of underrepresented groups is to include work from underrepresented scholars in college courses. This will not only add diverse voices to the course, but will elevate women and people of color who are working as scientists and allow students who are women and people of color to see people like them as experts. When college students see themselves represented in a field they are more likely to consider it a viable career choice.
 
-##### **Diversify (stats) syllabi** can help add these voices to syllabi for statistics courses. The resources listed were sole-authored or have a lead-author who is a woman or person of color. If you know of other books or papers that could be added to the list, please send them to harrisj@wustl.edu. As the repository grows, we may seek funding to develop a more sophistocated searchable repository, but for now, scroll or search away:
+**Diversify (stats) syllabi** can help add these voices to syllabi for statistics courses. The resources listed were sole-authored or have a lead-author who is a woman or person of color. If you know of other books or papers that could be added to the list, please send them to harrisj@wustl.edu. As the repository grows, we may seek funding to develop a more sophistocated searchable repository, but for now, scroll or search away:
 
 ## Statistics resources by topic
 
@@ -90,6 +90,10 @@ Norris, C. M., Ghali, W. A., Saunders, L. D., Brant, R., Galbraith, D., Faris, P
 ### Kurtosis
 
 <a href ="https://asianmideast.duke.edu/people/hae-young-kim">Kim, Hae-Young</a>. (2013). Statistical notes for clinical researchers: Assessing normal distribution (2) using skewness and kurtosis. Restorative Dentistry & Endodontics, 38(1), 52–54.
+
+### Network analysis
+
+Harris, Jenine K. (2013). <a href = "https://us.sagepub.com/en-us/nam/an-introduction-to-exponential-random-graph-modeling/book237737">An introduction to exponential random graph modeling (Vol. 173).</a> Sage Publications.
 
 ### Normal distribution
 
