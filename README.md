@@ -1,0 +1,2 @@
+# dys
+diversify your syllabi
